@@ -12,7 +12,7 @@ quick_facts:
   - "📍 Based in Atlanta, GA"
   - " I love the movie Princess and the frog"
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: https://www.linkedin.com/in/leona-francis-34b007361/
 image: /assets/images/headshot
 
 # A "Currently" block — three short status lines for the home page.
