@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Leona Francis
   role: Sophmore, Computer Science
-  image: /assets/images/profile.svg
+  image: /assets/images/headshot
   linkedin: https://www.linkedin.com/in/leona-francis-34b007361
   bio: |
     Hi! I'm Leona, a Computer Science student in the CEAMLS SAIRI Summer Research program.
