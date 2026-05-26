@@ -1,16 +1,16 @@
 ---
 layout: home
 title: Home
-display_name: Clyde Tandjong                  # <- shown as the big display name on the hero
+display_name: Leona Francis                  # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
-motto: "Curious about how research can shape better tools for everyday life."
+motto: "Don’t underestimate yourself. You are more capable than you think."
 
 quick_facts:
-  - "🎓 Junior, Computer Science"
-  - "🔬 Interested in Quantum Physics"
-  - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
+  - "🎓 Sophmore, Computer Science"
+  - "🔬 Interested in Cyberlaw and Software development"
+  - "📍 Based in Atlanta, GA"
+  - " I love the movie Princess and the frog"
 
 linkedin: https://www.linkedin.com/in/example
 image: /assets/images/profile.svg
