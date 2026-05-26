@@ -13,7 +13,7 @@ quick_facts:
   - " I love the movie Princess and the frog"
 
 linkedin: https://www.linkedin.com/in/example
-image: /assets/images/profile.svg
+image: /assets/images/headshot
 
 # A "Currently" block — three short status lines for the home page.
 currently:
