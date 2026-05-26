@@ -6,12 +6,8 @@ permalink: /about-my-project.html
 subtitle: Human-Computer Interaction & Adaptive Systems
 project_title: "DermaBridge: A Trustworthy Multimodal AI App for Skin Lesion Screening, Explainable Risk Assessment, and Smart Clinical Referral		"
 
-problem: |
-  Briefly describe the problem your project tackles. Who is affected? Why does this
-  matter? What gap or limitation are you trying to address?
+problem: |Skin cancer can be treated easily if its found in its early stages. Most patients with darker skin tones are usually missed diagnosed and fall under the rader when this stage occurs. 1 in 5 Americans will develop skin cancer in their lifetime with about 60,000 people dying globally. This AI-tool brings a clinical decision and management for early treatment. The DermaBridge addresses the gap using deep learning model-based analysis of dermascopic captured images to identify the patterns and lesions of moles that may be difficult to detect with the naked eye. Not only detection, the AI-tool can assist the origin of the lesion and be able to provide data for personalized care treatment.
 
-  Aim for two to three short paragraphs. Plain language is great — your audience
-  may not be specialists in your sub-field.
 
 approach: |
   Describe how you'll approach the problem. A bulleted plan works well:
