@@ -18,9 +18,9 @@ image: /assets/images/headshot
 # A "Currently" block — three short status lines for the home page.
 currently:
   - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
+    text: "Beloved — Toni Morrison"
   - label: Building
-    text: "A small Raspberry Pi sensor logging dashboard"
+    text: "N/a"
   - label: Wondering
-    text: "How accessibility research can shape consumer hardware"
+    text: "N/a"
 ---
