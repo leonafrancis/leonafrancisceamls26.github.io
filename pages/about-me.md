@@ -1,7 +1,7 @@
 ---
-  layout: about
-  title: About Me
-  permalink: /about-me.html
+layout: about
+title: About Me
+permalink: /about-me.html
 
   about: |
   name: Leona Francis
