@@ -2,8 +2,7 @@
 layout: about
 title: About Me
 permalink: /about-me.html
-
-  about: |
+ about: |
   name: Leona Francis
   role: Sophmore, Computer Science
   image: /assets/images/headshot
