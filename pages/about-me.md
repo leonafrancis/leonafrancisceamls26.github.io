@@ -27,14 +27,14 @@ about:
     
 
   hobbies:
-    - icon: 🎥
+    - icon:🎥
       title: On the Screen:
       description: Obsessed with early 2000s and late 90s coming-of-age movies and classic rom-coms (the nostalgia and
       fashion are unmatched).
-    - icon: 🎧
+    - icon:🎧
       title: In My Headphones
       description: A mix of absolutely everything, but my daily rotation heavily features Pop, Hip-Hop/Rap, and K-Pop.
-    - icon: 📚
+    - icon:📚
       title: Reading
       description: Romance novels and manga's — both equally inspiring.
 
