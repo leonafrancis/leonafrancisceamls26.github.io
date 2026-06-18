@@ -39,7 +39,7 @@ about:
       description: Romance novels and manga's — both equally inspiring.
 
   gallery:
-    - image: /assets/images/gallery-1.svg
-    - image: /assets/images/gallery-2.svg
-    - image: /assets/images/gallery-3.svg
+    - image: /assets/images/image-1
+    - image: /assets/images/image-2
+    - image: /assets/images/image-3
 ---
