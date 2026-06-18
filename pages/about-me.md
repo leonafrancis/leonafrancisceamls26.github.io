@@ -9,31 +9,37 @@ about:
   image: /assets/images/headshot
   linkedin: https://www.linkedin.com/in/leona-francis-34b007361
   bio: |
-    Hi! I'm Leona, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hi! I'm Leona,a Computer Science student in the CEAMLS SAIRI Summer Research program.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
+    I'm a rising sophomore at Morgan State University, with a minor in Pre-Law.
+    My mission? To bring color, personality, and fun back to tech. I’m obsessed with everything pink and Hello Kitty, and
+    I firmly believe that computer science doesn't have to be boring or gray. Whether I’m coding a new project, building
+    custom cyberdecks, or repurposing old, forgotten tech into something fresh and functional, I’m all about aesthetics
+    meeting innovation.
+    
+    I’m carving out a path to make a major impact in the tech world. My current goals include: 
+    Software Engineering: Developing sleek, user-centric applications.
+    Artificial Intelligence: Exploring the future of AI and how to make it more accessible and engaging.
+    Cyber Law: Combining my CS background with my pre-law minor to navigate the digital frontier, protect user privacy,
+    and advocate for ethical tech.
+  
 
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+    
 
   hobbies:
-    - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
-    - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
+    - icon: 🎥
+      title: On the Screen:
+      description: Obsessed with early 2000s and late 90s coming-of-age movies and classic rom-coms (the nostalgia and
+      fashion are unmatched).
+    - icon: 🎧
+      title: In My Headphones
+      description: A mix of absolutely everything, but my daily rotation heavily features Pop, Hip-Hop/Rap, and K-Pop.
     - icon: 📚
       title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+      description: Romance novels and manga's — both equally inspiring.
 
   gallery:
     - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
     - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
     - image: /assets/images/gallery-3.svg
-      caption: Hanging out with friends after class.
 ---
