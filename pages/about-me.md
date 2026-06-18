@@ -1,7 +1,8 @@
 ---
 layout: about
 title: About Me
-permalink: /about-me.html
+permalink:/about-me.html
+
  about: |
   name: Leona Francis
   role: Sophmore, Computer Science
