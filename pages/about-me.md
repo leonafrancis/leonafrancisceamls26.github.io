@@ -26,8 +26,7 @@ about:
 
     
 
-  hobbies:
-  
+  hobbies: |
   - icon:🎧
       title: In My Headphones
       description: A mix of absolutely everything, but my daily rotation heavily features Pop, Hip-Hop/Rap, and K-Pop.
