@@ -8,7 +8,8 @@ about:
   role: Sophmore, Computer Science
   image: /assets/images/headshot
   linkedin: https://www.linkedin.com/in/leona-francis-34b007361
- bio: 
+  
+ bio: |
     Hi! I'm Leona,a Computer Science student in the CEAMLS SAIRI Summer Research program.
     I'm a rising sophomore at Morgan State University, with a minor in Pre-Law.
     My mission? To bring color, personality, and fun back to tech. I’m obsessed with everything pink and Hello Kitty, and
