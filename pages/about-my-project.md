@@ -10,27 +10,24 @@ problem: |Skin cancer can be treated easily if its found in its early stages. Mo
 
 
 approach: |
-  Describe how you'll approach the problem. A bulleted plan works well:
-
-  - Step 1 — what you'll build, collect, or analyze first
-  - Step 2 — the next phase of the work
-  - Step 3 — how you'll evaluate or test
-  - Step 4 — how you'll communicate the results
-
-  Mention the specific tools, datasets, or methods you'll use.
+This initiative integrates computer vision, multimodal deep learning, and explainable AI (XAI) to optimize screening accuracy and reliability. Key steps include:
+1. Training and validating deep learning models using dermatoscopic images and clinical metadata.
+2. Benchmarking baseline architectures against advanced models like EfficientNetV2.
+3. Utilizing interpretability frameworks like Grad-CAM and SHAP to provide transparent diagnostic insights.
+4. Auditing models for fairness and bias across varied demographic groups and skin tones.
+5. Building a functional prototype equipped with smart referral capabilities.
+The technical stack leverages Python, PyTorch, OpenCV, CNNs, Vision Transformers, and multimodal architectures, utilizing benchmark datasets like HAM10000 and PAD-UFES-20.
 
 outcome: |
-  What do you expect to produce by the end of the program? A working prototype?
-  A research poster? A short paper? Describe the artifacts and what you hope
-  others will be able to do with them.
+  The primary objective is to build a functional, AI-powered prototype that provides trustworthy skin lesion screening and interpretable risk feedback. This work will culminate in a research poster and presentation detailing the project's methodology, results, and broader impact. Additionally, this research will deepen my expertise in machine learning, computer vision, algorithmic fairness, and healthtech innovation.
 
 final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
-  name: Alex Morgan
-  linkedin: https://www.linkedin.com/in/example
+  name: Blessing Isoyiza Adeika
+  linkedin: https://www.linkedin.com/in/blessing-isoyiza-adeika/
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
-  linkedin: https://www.linkedin.com/in/example
+  name: Dr. Saroj K. Pramanik
+  website: https://www.morgan.edu/biology/faculty-and-staff/saroj-pramanik
 ---
