@@ -28,15 +28,15 @@ about:
 
   hobbies:
   
+  - icon:🎧
+      title: In My Headphones
+      description: A mix of absolutely everything, but my daily rotation heavily features Pop, Hip-Hop/Rap, and K-Pop.
   - icon:📚
       title: Reading
       description: Romance novels and manga's — both equally inspiring
-  - icon:📚
-      title: Reading
-      description: Romance novels and manga's — both equally inspiring
-  - icon:📚
-      title: Reading
-      description: Romance novels and manga's — both equally inspiring
+  - icon:🎥
+      title: On the Screen
+    description: Obsessed with early 2000s and late 90s coming-of-age movies, classic rom-coms (the nostalgia and fashion are unmatched) and all the spiderman movies. 
 
 
   gallery:
