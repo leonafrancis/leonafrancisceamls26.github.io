@@ -4,28 +4,22 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Alex Morgan
+  name: Blessing Isoyiza Adeika
   title: PhD Candidate, Computer Engineering
-  image: /assets/images/graduate-student-mentor.svg
-  website: https://example.com/alex-morgan
+  image: /assets/images/blessing.jpg
+  website: https://www.linkedin.com/in/blessing-isoyiza-adeika/
   bio: |
-    Alex is a PhD candidate working on adaptive systems and embedded machine learning.
-    They've been an incredible mentor — patient with my questions and great at helping
-    me connect ideas across disciplines.
+   Blessing Isoyiza Adeika is a Computer Engineering PhD candidate specializing in artificial intelligence, machine learning, multimodal systems, and trustworthy AI. Her research focuses on developing intelligent systems that solve real-world challenges while ensuring they remain reliable, transparent, and impactful.
 
-    Outside of research, Alex organizes weekly reading groups and is a strong advocate
-    for undergraduate research participation.
+    
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
-  title: Associate Professor, School of Engineering
+  name: Dr. Saroj K. Pramanik
+  title: Associate Professor, Department of Biology
   image: /assets/images/faculty-mentor.svg
-  website: https://example.com/pat-nguyen
+  website: https://www.morgan.edu/biology/faculty-and-staff/saroj-pramanik
   bio: |
-    Dr. Nguyen leads a research group focused on human-centered computing and
-    accessibility. Their guidance has helped me sharpen my research questions and
-    think more carefully about real-world impact.
+    As an Associate Professor in the Department of Biology at Morgan State University, Dr. Saroj K. Pramanik champions student success and scientific discovery. His work blends interdisciplinary research with a commitment to collaborative learning, innovation, and mentorship.
 
-    Dr. Nguyen has mentored many SAIRI students and is a champion for broadening
-    participation in computing.
+    
 ---
