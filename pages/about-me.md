@@ -11,6 +11,7 @@ about:
   
  bio: |
     Hi! I'm Leona,a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    
     I'm a rising sophomore at Morgan State University, with a minor in Pre-Law.
     My mission? To bring color, personality, and fun back to tech. I’m obsessed with everything pink and Hello Kitty, and
     I firmly believe that computer science doesn't have to be boring or gray. Whether I’m coding a new project, building
@@ -21,9 +22,7 @@ about:
     Artificial Intelligence: Exploring the future of AI and how to make it more accessible and engaging.
     Cyber Law: Combining my CS background with my pre-law minor to navigate the digital frontier, protect user privacy,
     and advocate for ethical tech.
-  
-
-    
+   
 
  hobbies:
   - icon:🎧
