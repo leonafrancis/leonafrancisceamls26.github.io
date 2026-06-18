@@ -11,7 +11,7 @@ problem: |
 
 
 approach: |
-This initiative integrates computer vision, multimodal deep learning, and explainable AI (XAI) to optimize screening accuracy and reliability. Key steps include: 
+  This initiative integrates computer vision, multimodal deep learning, and explainable AI (XAI) to optimize screening accuracy and reliability. Key steps include: 
   1. Training and validating deep learning models using dermatoscopic images and clinical metadata.
   2. Benchmarking baseline architectures against advanced models like EfficientNetV2.
   3. Utilizing interpretability frameworks like Grad-CAM and SHAP to provide transparent diagnostic insights.
