@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Blessing Isoyiza Adeika
   title: PhD Candidate, Computer Engineering
-  image: /assets/images/blessing.jpg
+  image: /assets/images/blessing-1
   website: https://www.linkedin.com/in/blessing-isoyiza-adeika/
   bio: |
    Blessing Isoyiza Adeika is a Computer Engineering PhD candidate specializing in artificial intelligence, machine learning, multimodal systems, and trustworthy AI. Her research focuses on developing intelligent systems that solve real-world challenges while ensuring they remain reliable, transparent, and impactful.
