@@ -22,18 +22,22 @@ about:
     Artificial Intelligence: Exploring the future of AI and how to make it more accessible and engaging.
     Cyber Law: Combining my CS background with my pre-law minor to navigate the digital frontier, protect user privacy,
     and advocate for ethical tech.
-   
+
+
+
 
  hobbies:
-    -  icon:🎧
+    - icon: 🎧
       title: In My Headphones
       description: A mix of absolutely everything, but my daily rotation heavily features Pop, Hip-Hop/Rap, and K-Pop.
-    - icon:📚
+    - icon: 📚
       title: Reading
-      description: Romance novels and manga's — both equally inspiring
-    - icon:🎥
-      title: On the Screen
-    description: Obsessed with early 2000s and late 90s coming-of-age movies, classic rom-coms (the nostalgia and fashion are unmatched) and all the spiderman movies. 
+      description: Romance novels and manga's — both equally inspiring.
+    - icon: 🎥
+      title:  On the Screen
+      description: Obsessed with early 2000s and late 90s coming-of-age movies, classic rom-coms (the nostalgia and fashion are unmatched) and all the spiderman movies.
+
+      
 
 
   gallery:
