@@ -16,7 +16,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Saroj K. Pramanik
   title: Associate Professor, Department of Biology
-  image: assets/images/PramanikSaroj.jpg
+  image: /assets/images/PramanikSaroj.jpg
   website: https://www.morgan.edu/biology/faculty-and-staff/saroj-pramanik
   bio: |
     As an Associate Professor in the Department of Biology at Morgan State University, Dr. Saroj K. Pramanik champions student success and scientific discovery. His work blends interdisciplinary research with a commitment to collaborative learning, innovation, and mentorship.
