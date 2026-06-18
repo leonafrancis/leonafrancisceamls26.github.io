@@ -8,7 +8,7 @@ about: |
   role: Sophmore, Computer Science
   image: /assets/images/headshot
   linkedin: https://www.linkedin.com/in/leona-francis-34b007361
-  bio: |
+bio: |
     Hi! I'm Leona,a Computer Science student in the CEAMLS SAIRI Summer Research program.
 
     I'm a rising sophomore at Morgan State University, with a minor in Pre-Law.
@@ -26,7 +26,7 @@ about: |
 
     
 
-  hobbies: |
+ hobbies: |
   - icon:🎧
       title: In My Headphones
       description: A mix of absolutely everything, but my daily rotation heavily features Pop, Hip-Hop/Rap, and K-Pop.
