@@ -42,6 +42,7 @@ about:
   gallery:
     - image: /assets/images/image-1
     - image: /assets/images/image-2
+    - image: /assets/images/image-3
     - image: /assets/images/image-3-2
     - image: /assets/images/image-4
 ---
