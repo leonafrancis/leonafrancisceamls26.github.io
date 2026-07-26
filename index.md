@@ -8,7 +8,7 @@ motto: "Don’t underestimate yourself. You are more capable than you think."
 
 quick_facts:
   - "🎓 Sophmore, Computer Science"
-  - "🔬 Interested in Cyberlaw and Software development"
+  - "🔬 Interested in Cyberlaw and AI "
   - "📍 Based in Atlanta, GA"
   - " I love the movie Princess and the frog"
 
@@ -20,7 +20,7 @@ currently:
   - label: Reading
     text: "Beloved — Toni Morrison"
   - label: Building
-    text: "N/a"
+    text: "DermaBridge"
   - label: Wondering
-    text: "N/a"
+    text: "How can I better myself?"
 ---
