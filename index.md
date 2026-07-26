@@ -10,7 +10,7 @@ quick_facts:
   - "🎓 Sophmore, Computer Science"
   - "🔬 Interested in Cyberlaw and AI "
   - "📍 Based in Atlanta, GA"
-  - " I love the movie Princess and the frog"
+  - "🎥 I love the movie Princess and the frog"
 
 linkedin: https://www.linkedin.com/in/leona-francis-34b007361/
 image: /assets/images/headshot
